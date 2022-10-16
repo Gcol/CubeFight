@@ -1,0 +1,11 @@
+==========================
+How to create new account?
+==========================
+
+insert into table 
+(username, password)
+values
+('myusername', 'mypassword');
+
+
+

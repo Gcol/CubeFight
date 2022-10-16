@@ -1,0 +1,19 @@
+create table public (
+	id int not null,
+	nickname varchar(16) not null,
+	password varchar(24) not null,
+    primary key (id)
+) default charset = utf8
+
+## com auto_increment para adicionar id em sequencia (1,2,3)
+create table public (
+	id int not null auto_increment, 
+	nickname varchar(16) not null,
+	password varchar(24) not null,
+    primary key (id)
+) default charset = utf8;
+
+insert into table
+(data, data, data)
+value
+('1', '2', '3');

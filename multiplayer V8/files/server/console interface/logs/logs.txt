@@ -1,0 +1,33 @@
+2020-10-11 10:18:41,632 - INFO - ---------------------------------------
+2020-10-11 10:18:41,633 - INFO - created by: HenryQFX
+2020-10-11 10:18:41,633 - INFO - github:  https://github.com/HenryQFX
+2020-10-11 10:18:41,633 - INFO - ---------------------------------------
+
+2020-10-11 10:18:44,242 - INFO - [AUTHENTICATION/START] listening on: 127.0.0.1:8282
+2020-10-11 10:18:44,750 - INFO - [BLUE/START] listening on: 127.0.0.1:8181
+
+2020-10-11 10:20:14,361 - INFO - [BLUE/INFO] (player 1 logged!)
+2020-10-11 10:20:29,775 - INFO - [BLUE/INFO] (player 2 logged!)
+2020-10-11 10:20:53,675 - INFO - [BLUE/INFO] (player: 1 [('127.0.0.1', 62829)] disconnected!)
+2020-10-11 10:20:54,278 - INFO - [BLUE/INFO] (player: 2 [('127.0.0.1', 62831)] disconnected!)
+2020-10-11 10:33:04,609 - INFO - ---------------------------------------
+2020-10-11 10:33:04,610 - INFO - created by: HenryQFX
+2020-10-11 10:33:04,610 - INFO - github:  https://github.com/HenryQFX
+2020-10-11 10:33:04,610 - INFO - ---------------------------------------
+
+2020-10-11 10:33:07,249 - INFO - [AUTHENTICATION/START] listening on: 127.0.0.1:8282
+2020-10-11 10:33:07,759 - INFO - [BLUE/START] listening on: 127.0.0.1:8181
+
+2020-10-11 11:11:48,312 - INFO - ---------------------------------------
+2020-10-11 11:11:48,313 - INFO - created by: HenryQFX
+2020-10-11 11:11:48,313 - INFO - github:  https://github.com/HenryQFX
+2020-10-11 11:11:48,313 - INFO - ---------------------------------------
+
+2020-10-11 11:11:50,918 - INFO - [AUTHENTICATION/START] listening on: 127.0.0.1:8282
+2020-10-11 11:11:51,442 - INFO - [BLUE/START] listening on: 127.0.0.1:8181
+
+2020-10-11 11:14:48,112 - INFO - [BLUE/INFO] (player 1 logged!)
+2020-10-11 11:15:04,070 - INFO - (11-10-2020-11:11:48)[GUI] reseted!
+2020-10-11 11:15:27,486 - INFO - [BLUE/INFO] (player 2 logged!)
+2020-10-11 11:15:45,925 - INFO - [BLUE/INFO] (player: 1 [('127.0.0.1', 49661)] disconnected!)
+2020-10-11 11:15:46,588 - INFO - [BLUE/INFO] (player: 2 [('127.0.0.1', 49695)] disconnected!)
